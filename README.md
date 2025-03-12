@@ -5,7 +5,7 @@
 ![saikat709's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saikat709&theme=cobalt&show_icons=true&hide_border=true&layout=compact)
 
 ## 🚀 About Me:
-- 🔥 Solved 132+ problems on Codeforces and always striving to improve my competitive programming skills. <br>
+- 🔥 Solved 185+ problems on Codeforces and always striving to improve my competitive programming skills. <br>
 - 🌐 Specialize in React (frontend) and Django (backend), creating seamless user experiences and robust APIs. <br>
 - 💻 Hosted Django projects on PythonAnywhere and love optimizing backend workflows. <br>
 - 🛠️ Experienced with MUI for intuitive and modern UI designs. <br>
